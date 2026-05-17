@@ -6,7 +6,7 @@
 /* Cuerpo de la página */
 body {
     font-family: 'Abel', sans-serif;
-    background-image: url('../img/fondo.png');
+    background-image: url('img/fondo.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
